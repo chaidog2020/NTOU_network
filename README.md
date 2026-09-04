@@ -1,10 +1,10 @@
 # NTOU_network
 
-A Python script that automatically creates a `.bat` file for connecting to NTOU PPPoE.
+A Python script that automatically creates a `.bat` file on Desktop for connecting to NTOU dormitory PPPoE Internet.
 
 Make sure your computer is connected to the Ethernet port with a network cable, otherwise this script will not work.
 
-**Although the account and password information may be posted on the bulletin board, it is still recommended to keep your own account and password in a safe place.**
+**Although the account and password information is posted on the bulletin board, it is still recommended to keep your own account and password in a safe place.**
 
 ## Option 1 - Initial Setup / Change Account
 
@@ -31,16 +31,16 @@ By chaidog2020
 
 # NTOU_network 中文說明
 
-這是一個可以自動產生 `.bat` 檔案，用來連線 NTOU PPPoE 的 Python 腳本。
+這是一個可以自動產生 `.bat` 檔案，用來設置與連接海大宿舍有線網路 PPPoE 的 Python 腳本。
 
 使用前請確認你的電腦已經接上宿舍網路孔的網路線，否則此腳本將無法正常運作。
 
-**雖然帳號與密碼可能會被公布在公告欄上，但還是建議妥善保管自己的帳號與密碼。**
+**雖然帳號與密碼是直接公布在公告欄上，但還是建議妥善保管自己的帳號與密碼。**
 
 ## 選項 1 - 初始設定 / 更改帳號
 
 在這裡輸入你的帳號與密碼。
-帳號後面需要加上 `@hinet.net`。
+帳號後面需要加上 `@hinet.net` (至少2026要)。
 
 再次執行此選項會覆蓋先前儲存的帳號資訊。
 
