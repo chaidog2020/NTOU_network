@@ -1,6 +1,4 @@
-## Note: This is final version of this repo, no more update will be released.
-
----
+> **Note:** This is the final version of this repo. No further updates will be released.
 
 # NTOU_dormitory_network_helper
 
